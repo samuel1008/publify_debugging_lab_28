@@ -102,7 +102,7 @@ search:
 # - 'errors.messages.{accepted,blank,invalid,too_short,too_long}'
 # - '{devise,simple_form}.*'
 ignore_missing:
-  - 'devise.*'
+  - 'devise'
 
 ## Consider these keys used:
 # ignore_unused:
